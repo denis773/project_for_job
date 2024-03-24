@@ -1,3 +1,4 @@
 /terraform/key.json
 /terraform/id_rsa.pub
 /terraform/date
+/app/docker/.env
